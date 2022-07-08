@@ -1,7 +1,4 @@
-# spatial-blotto
-Spatial version of the Colonel Blotto game. Undergrad project (L3) at Sorbonne Univ. 2021-2022
-
-## Présentation générale du projet
+## Jeu du Colonel Blotto version spatiale
 
 On se propose d'étudier une variante du problème du Colonel Blotto dans laquelle deux partis à une élection s'affrontent. On suppose qu'ils disposent du même nombre total de militants.  
 Chaque parti doit décider d'allouer ses équipes de campagnes pour convaincre différents électeurs.
