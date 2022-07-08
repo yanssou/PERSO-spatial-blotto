@@ -1,14 +1,12 @@
 # Rapport #
 
-Pour ce projet, nous avons réalisé 4 stratégies sur les 5 demandées mais nous avons ajouter les budgets de déplacements de la semaine 3. En effet, nous avons eu du mal à comprendre la stratégie fictious play et comment l'implémenter dans notre code. 
-
 Dans ce rapport, nous allons observer le comportement de nos deux parties : le Parti G et le Parti D (évidemment ce projet est garanti sans influence politique et les noms sont une coincidence...)
 
 ## Pour dresser le tableau ##
 
 Pour se faire, nous allons tester chaque stratégie l'une contre l'autre en lançant 5 campagnes différentes durant chacune 5 jours afin de pouvoir dresser un tableau nous indiquant quelle stratégie est plus efficace que laquelle.
 Cela nous permettra de savoir quelle stratégie utiliser lorsque l'on connaît celle de notre adversaire.
-(Vous pouvez retrouver dans le fichier annexe.md plus de détails sur la création de notre tableau)
+(Voir annexe.md pour plus de détails sur la création du tableau)
 
 
 ![tableau](https://user-images.githubusercontent.com/75998812/161092700-1b340d63-cd23-4e4f-969f-6a6070e2c564.PNG)
